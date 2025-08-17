@@ -19,7 +19,7 @@ $ModeloUsuarios->validateSession();
 <div class="header" id="header"></div>
 
 
-	<div class="name">
+	<div class="main">
 		<h1>Registrar Materia</h1>
 		<form method="POST" action="../Controladores/Add.php">
 			Nombre <br>
